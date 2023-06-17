@@ -1,3 +1,4 @@
+
 <div align="center">
   <h3> Hi there 👋 </h3>
   <h1> I'm Henrique</h1>
@@ -7,6 +8,18 @@
   I'm currently enrolled in a Bachelor in Informatics and Computing Engineering at [FEUP](https://sigarra.up.pt/feup/pt/web_page.Inicial).
   
   <h2> Projects </h2>
+  
+  <h3>
+    <a href="https://github.com/HenriqueCaridade/WriteWise">WriteWise</a>
+    <span style="color:red;">20.0/20</span>
+  </h3>
+  <p>Low level C project</p>
+    
+  <h3>
+    <a href="https://github.com/HenriqueCaridade/TicketManager">Tick.et</a>
+    18.4/20
+  </h3>
+    <p>Web Languages (HTML, CSS, JS, PHP) Project</p>
   
   <h2> Stats </h2>
   
