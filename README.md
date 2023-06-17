@@ -9,17 +9,27 @@
   
   ## Projects
   
-  <h3>
-    <a href="https://github.com/HenriqueCaridade/WriteWise">WriteWise</a>
-    20.0/20
-  </h3>
-  <p>Low level C project</p>
-    
-  <h3>
-    <a href="https://github.com/HenriqueCaridade/TicketManager">Tick.et</a>
-    18.4/20
-  </h3>
-    <p>Web Languages (HTML, CSS, JS, PHP) Project</p>
+  <table>
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Grade (.../20)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/HenriqueCaridade/WriteWise">WriteWise</a></td>
+        <td> Low level C project </td>
+        <td> 20.0 </td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/HenriqueCaridade/TicketManager">Tick.et</a></td>
+        <td> Web Languages (HTML, CSS, JS, PHP) Project </td>
+        <td> 18.4 </td>
+      </tr>
+    </tbody>
+  </table>
   
   ## Stats
   
