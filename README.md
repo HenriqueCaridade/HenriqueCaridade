@@ -39,7 +39,7 @@
       <h3> LeetCode Stats </h3>
     </summary>
     <a href="https://leetcode.com/HenriqueCaridade">
-      <img alt="No Stats Available" src="https://leetcard.jacoblin.cool/HenriqueCaridade?theme=dark&font=Consolas">
+      <img alt="No Stats Available" src="https://leetcard.jacoblin.cool/HenriqueCaridade?theme=dark">
     </a>
   </details>
 </div>
