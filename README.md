@@ -3,7 +3,7 @@
   ### Hi there 👋
   # I'm Henrique
 
-  I'm 19 years old and from Portugal.
+  I'm 20 years old and from Portugal.
   
   I'm currently enrolled in a Bachelor in Informatics and Computing Engineering at [FEUP](https://sigarra.up.pt/feup/pt/web_page.Inicial).
   
